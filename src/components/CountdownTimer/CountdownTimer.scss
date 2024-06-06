@@ -71,18 +71,18 @@ span {
             }
         }
 
-        .flipper {
-            height: 50%;
-            width: inherit;
-            position: absolute;
-            top: 50%;
-            background-color: black;
-            opacity: 0.3;
-            transform-origin: top;
-            transform-style: preserve-3d;
-            animation: flip 1s forwards infinite;
-            z-index: 10000;
-        }
+        // .flipper {
+        //     height: 50%;
+        //     width: inherit;
+        //     position: absolute;
+        //     top: 50%;
+        //     background-color: black;
+        //     opacity: 0.3;
+        //     transform-origin: top;
+        //     transform-style: preserve-3d;
+        //     animation: flip 1s forwards infinite;
+        //     z-index: 10000;
+        // }
     }
 
     &-visual {
