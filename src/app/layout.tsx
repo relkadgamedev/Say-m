@@ -5,7 +5,7 @@ import { Red_Hat_Text } from "next/font/google";
 const inter = Red_Hat_Text({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Ayse&Enes",
+  title: "Hosgeldin Caner",
   description: "This app is built using NextJs, functions like a countdown timer",
 };
 
