@@ -4,7 +4,7 @@ import '../styles/main.scss'
 
 const today = new Date();
 // let target = new Date(today)
-let target = new Date("2024-09-08T14:00:00"); // This is standardized and will work reliably
+let target = new Date("2025-09-22T03:00:00"); // This is standardized and will work reliably
 target.setDate(target.getDate())
 
 const timerLabels = ['days', 'hours', 'minutes', 'seconds']
